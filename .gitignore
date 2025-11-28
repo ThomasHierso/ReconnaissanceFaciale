@@ -1,0 +1,5 @@
+env/
+data/
+*.jpg
+*.npy
+__pycache__/
