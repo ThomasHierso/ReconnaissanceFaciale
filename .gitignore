@@ -1,5 +1,17 @@
+# Ignorer l'environnement virtuel
 env/
+env311/
+
+# Ignorer les fichiers Python compilés
+*.pyc
+__pycache__/
+
+# Ignorer les fichiers système
+.DS_Store
+Thumbs.db
+
+# Ignorer les fichiers photos 
 data/
 *.jpg
 *.npy
-__pycache__/
+
